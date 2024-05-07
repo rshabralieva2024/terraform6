@@ -12,7 +12,7 @@ variable"ami" {
 }
 
 variable "key_name" {
-    default "rahat-20240507191104407200000001"
+    default = "rahat-20240507191104407200000001"
 }
 
 variable "instance_type" {
